@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ironwood_announcement_title">Zcash 已升級至 Ironwood</string>
+    <string name="ironwood_announcement_body_1">Ironwood 是全新的屏蔽池：協定與 Orchard 相同，現已通過形式化驗證與獨立審計。您的資金安全無虞，地址也照常可用。</string>
+    <string name="ironwood_announcement_body_2">在您移轉之前，Orchard 中的資金仍然屬於您。您依然可以花費，但離開 Orchard 的金額是公開的，所以花費時會在鏈上公開一筆金額，而且這個金額可能比您實際傳送的還大。</string>
+    <string name="ironwood_announcement_body_3">您現在就可以進行移轉。我們建議選擇用隱私的方式：它會把您的餘額拆成多筆較小的轉帳，在背景中隨時間自動送出，讓這些轉帳更難被連結到您。您也可以用單筆轉帳一次全部移轉。</string>
+    <string name="ironwood_announcement_body_guide">不確定該選哪一種？我們的指南會說明這兩種方式。</string>
+    <string name="ironwood_announcement_body_guide_link">我們的指南</string>
+    <string name="ironwood_announcement_primary_button">前往 Zodl</string>
+</resources>
